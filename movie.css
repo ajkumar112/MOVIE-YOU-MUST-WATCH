@@ -1,0 +1,116 @@
+nav{
+    background-color: black;
+    color: aliceblue;
+    padding: 25px;
+
+}
+h1,ul,li{
+    display: inline;
+}
+
+ul{
+    padding-left: 50%;
+}
+li{
+    color: gray;
+    cursor: pointer;
+    
+}
+input{
+    padding: 15px;
+    width: 60%;
+   }
+.search{
+    text-align: center;
+    padding: 50px;
+}
+.movie1{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    padding-top: 35px;
+    
+    
+    
+}
+
+
+.movie2{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+}
+
+.movies{
+    text-align: center;
+}
+.movie3{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    padding-top: 20px;
+
+}
+.break{
+    display: block;
+    color: white;
+    background-color: white;
+}
+
+    
+.second{
+    text-align: center;
+}
+.movie4{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    padding-top: 55px;
+
+
+}
+.image{
+    display: block;
+
+}
+.movie5{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    padding-top: 38px;
+
+
+}
+.movie6{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    padding-top: 20px;
+
+}
+ .wwe :hover{
+    background-color: black;
+    color: white;
+ } 
+ .about{
+    text-align: center;
+ }  
+ .Contact{
+    background-color: black;
+    color: white;
+ }
+ h5{
+    text-align: center;
+ }
